@@ -1,0 +1,112 @@
+#mine{
+    margin: 50px auto;
+
+}
+
+.level{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.level button{
+    padding: 5px 5px;
+    background-color: #02a4ad;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+}
+.level button.active{
+    background-color: #001bff;
+}
+
+table{
+    border-spacing: 1px;
+    background-color: #929196;
+    margin: 0 auto;
+}
+td{
+    padding: 0;
+    width: 22px;
+    height: 22px;
+    background-color: #ccc;
+    border: 2px solid;
+    border-color: #fff #a1a1a1 #a1a1a1 #fff;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+
+}
+
+.info{
+    margin-top: 10px;
+    text-align: center;
+}
+.mine{
+    background: #d9d9d9 url(./../imgs/boom.png) no-repeat center;
+    background-size: cover;
+}
+.flag{
+    background: #d9d9d9 url(./../imgs/flag.png) no-repeat center;
+    background-size: cover;
+}
+
+td.zero{
+    background-color: #d9d9d9;
+    background: #d9d9d9;
+    border-color: #d9d9d9;
+    
+}
+td.one{
+    background-color: #d9d9d9;
+    background: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #02a4ad;
+}
+td.two{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: brown;
+}
+td.three{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: tomato;
+}
+td.four{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: yellow;
+}
+td.five{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: slateblue;
+}
+td.six{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: violet;
+}
+td.seven{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: springgreen;
+}
+td.eight{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: slateblue;
+}
+
